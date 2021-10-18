@@ -16,7 +16,7 @@ conflicts=("${pkgname}")
 options=("!strip")
 source=("${pkgname}.desktop" "icon_white.png")
 source_x86_64=("https://github.com/ThePBone/GalaxyBudsClient/releases/download/${pkgver}/${_pkgname}_Linux_64Bit_Portable.bin")
-sha256sums=('bc638a601547b4dd3adf519ddf8cc962205ac2656b1a10a1a5b3e889e8754a1a'
+sha256sums=('61e88374446b2d378e487f0b4cb41cafac7dfb6ce1905158028b144123c5c1ca'
             '04b551470a2e0ccd99b266d313265321113886f5808b872bf928a97442bf930a')
 sha256sums_x86_64=('eef881b49f5bceea153870c7b82633e2a5eeec82ddc6949883a7c9ed3e074ae4')
 
